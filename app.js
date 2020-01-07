@@ -6,6 +6,7 @@ const mode = document.getElementById("jsMode");
 const save = document.getElementById("jsSave");
 const INITIAL_COLOR = "#c2c2c2";
 const CANVAS_SIZE = 700;
+
 let painting = false;
 let filling = false;
 
